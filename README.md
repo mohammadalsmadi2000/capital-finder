@@ -18,18 +18,18 @@ https://capital-finder-ms.vercel.app/api/capital-finder?capital=Beijing
 ```
 ## Country
 #### 1
-[Find capital of country: Australia](https://capital-finder-ms.vercel.app/api/capital-finder?country=Australia)
+[Find capital of country: Australia](https://capital-finder-ms.vercel.app/api/capital-finder?name=Australia)
 ```
-https://capital-finder-ms.vercel.app/api/capital-finder?country=Australia
+https://capital-finder-ms.vercel.app/api/capital-finder?name=Australia
 ```
 #### 2
-[Find capital of country: Brazil](https://capital-finder-ms.vercel.app/api/capital-finder?country=Brazil)
+[Find capital of country: Brazil](https://capital-finder-ms.vercel.app/api/capital-finder?name=Brazil)
 ```
-https://capital-finder-ms.vercel.app/api/capital-finder?country=Brazil
+https://capital-finder-ms.vercel.app/api/capital-finder?name=Brazil
 ```
 #### 3
-[Find capital of country: Canada](https://capital-finder-ms.vercel.app/api/capital-finder?country=Canada)
+[Find capital of country: Canada](https://capital-finder-ms.vercel.app/api/capital-finder?name=Canada)
 ```
-https://capital-finder-ms.vercel.app/api/capital-finder?country=Canada
+https://capital-finder-ms.vercel.app/api/capital-finder?name=Canada
 ```
 
